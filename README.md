@@ -4,17 +4,9 @@
 
 SQL Employee Manager
 
-# Video
-Video of the demonstration
+# URL 
 
-# Images
-
-![code](https://user-images.githubusercontent.com/77468756/116941281-04e08800-ac35-11eb-83be-5f8aaf413eb4.png)
-![employee manager](https://user-images.githubusercontent.com/77468756/116941287-06aa4b80-ac35-11eb-8467-6e10b2abd771.png)
-
-
-
-
+https://github.com/atn362/SQL_employee_management.git
 
 
 # Description
@@ -22,7 +14,6 @@ Video of the demonstration
 This application creates a database in which to sort employees by their job titles and their departments.
 
 # Table of Contents 
-* [Title](#title)
 * [Video](#video)
 * [Images](#Images)
 * [Installation](#installation)
@@ -31,6 +22,14 @@ This application creates a database in which to sort employees by their job titl
 * [Contribution](#contribution)
 * [Tests](#tests)
 * [Questions](#questions)
+
+# Video
+Video of the demonstration
+
+# Images
+
+![code](https://user-images.githubusercontent.com/77468756/116941281-04e08800-ac35-11eb-83be-5f8aaf413eb4.png)
+![employee manager](https://user-images.githubusercontent.com/77468756/116941287-06aa4b80-ac35-11eb-8467-6e10b2abd771.png)
 
 # Installation
 What is needed to install this application? Installation begins with the "Node Index" command that is typed in the integrated terminal of the index.js files
