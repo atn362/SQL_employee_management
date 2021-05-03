@@ -9,6 +9,10 @@ Video of the demonstration
 
 # Images
 
+![code](https://user-images.githubusercontent.com/77468756/116941281-04e08800-ac35-11eb-83be-5f8aaf413eb4.png)
+![employee manager](https://user-images.githubusercontent.com/77468756/116941287-06aa4b80-ac35-11eb-8467-6e10b2abd771.png)
+
+
 
 
 
