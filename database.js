@@ -4,8 +4,8 @@ const db = mysql.createConnection({
   host: 'localhost',
   port: 3306,
   user: 'root',
-  password: 'xExV2Rv3gjc7XC',
-  database: 'employee_db',
+  password: 'root',
+  database: 'employees',
   multipleStatements: true
 });
 
@@ -101,11 +101,14 @@ const database = {
     db.query(
       `INSERT INTO employee (first_name, last_name, role_id, manager_id) 
         VALUES 
-          ('Leanne', 'Graham', 4, null),
-          ('Ervin', 'Howell', 3, 1),
-          ('Clementine', 'Bauch', 1, null),
-          ('Patricia', 'Lebsack', 2, 3),
-          ('Chelsey', 'Dietrich', 5, null)`,
+        ('Alex', 'Norton', 1, 1),
+        ('Wes', 'Hickman', 2, 1),
+        ('Andy', 'Hall', 3, 2),
+        ('Des', 'Coleman', 4, 2),
+        ('Bryce', 'Thingvold', 5, 3),
+        ('Mark', 'Johnson', 6, 4),
+        ('Adam', 'Greentree', 7, 4),
+        ('Allen', 'Shapiro', 7, 4);`,
       err => {
         if (err) {
           console.log(err);
