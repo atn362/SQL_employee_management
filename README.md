@@ -26,7 +26,11 @@ This application creates a database in which to sort employees by their job titl
 # Video
 Video of the demonstration
 
+Google Drive Video:
 https://drive.google.com/file/d/1rZSK4IAE0DTP8py6T5LD329iOLmGx5GO/preview
+
+YouTube Video:
+https://www.youtube.com/watch?v=MVcxPdbm-gI
 
 # Images
 
