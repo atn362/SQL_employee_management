@@ -26,6 +26,8 @@ This application creates a database in which to sort employees by their job titl
 # Video
 Video of the demonstration
 
+https://drive.google.com/file/d/1rZSK4IAE0DTP8py6T5LD329iOLmGx5GO/preview
+
 # Images
 
 ![code](https://user-images.githubusercontent.com/77468756/116941281-04e08800-ac35-11eb-83be-5f8aaf413eb4.png)
